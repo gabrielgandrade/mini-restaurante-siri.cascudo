@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(180deg, #498fff 0%, #74e0a8 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+h1 {
+    color: white
+}
+
+h2 {
+    color: white
+}
+
+h3 {
+    color: white
+}
+
+h4 {
+    color: white
+} 
+
+ a {
+    margin-right: 20px;
+    color: white
+}
+
+ ul{
+    color: white;
+}
+
+ol{
+    color: white;
+}
+
+table {
+    text-align: center;
+    color: white;
+    background-color: gray;
+}
+
+iframe{
+    border-radius: 22px;
+
+}
